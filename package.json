@@ -1,0 +1,13 @@
+{
+  "name": "cordova-sqlite-storage",
+  "version": "1.0.4",
+  "description": "Brodysoft SQLitePlugin",
+  "cordova": {
+    "id": "cordova-sqlite-storage",
+    "platforms": [
+      "ios",
+      "android"
+    ]
+  },
+  "repository": "github:dextronet/cordova-sqlite-storage"
+}
